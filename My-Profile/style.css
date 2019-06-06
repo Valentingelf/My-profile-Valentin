@@ -1,0 +1,37 @@
+body { 
+	background-color: white;
+	color: white;
+	font-family: Helvetica;
+
+}
+
+h1 { 
+	color : black;
+	font-family: Helvetica;
+	font-weight: 200;
+	letter-spacing: 5px;
+	font-size: 45px;
+ }
+
+h3 {
+	color: black;
+	font-family: Helvetica;
+	font-weight: 200;
+	letter-spacing: 5px;
+	font-size: 35px;
+ }
+
+
+ p{
+ 	color: black;
+ 	font-family: Helvetica;
+ 	font-weight: 50;
+ 	font-size: 20px;		
+ }
+
+ h2{
+ 	color: black;
+ 	font-family: Helvetica;
+ 	font-weight: 30;
+ 	font-size: 25
+ }
